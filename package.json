@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-t14n-server",
+  "version": "0.0.1",
+  "description": "Turistforeningen eslint config for server",
+  "main": "index.js",
+  "repository": "https://github.com/Turistforeningen/eslint-config-t14n-server",
+  "author": "@Turistforeningen",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
