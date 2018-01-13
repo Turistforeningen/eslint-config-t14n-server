@@ -1,11 +1,15 @@
 {
   "name": "eslint-config-t14n-server",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Turistforeningen eslint config for server",
   "main": "index.js",
   "repository": "https://github.com/Turistforeningen/eslint-config-t14n-server",
   "author": "@Turistforeningen",
   "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "*"
+  },
   "peerDependencies": {
     "eslint": ">= 3"
   }
