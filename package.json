@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-t14n-server",
-  "version": "0.0.4",
+  "version": "0.0.9",
   "description": "Turistforeningen eslint config for server",
   "main": "index.js",
   "repository": "https://github.com/Turistforeningen/eslint-config-t14n-server",
