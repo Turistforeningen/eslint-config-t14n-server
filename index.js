@@ -15,6 +15,7 @@ module.exports = {
     'no-unused-vars': [2, {'args': 'none'}],
     'function-paren-newline': [2, 'consistent'],
     'arrow-parens': [2, 'always'],
+    'new-cap': [2, { "properties": false }],
     'comma-dangle': ['error', {
       arrays: 'always-multiline',
       objects: 'always-multiline',
